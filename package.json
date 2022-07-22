@@ -1,0 +1,15 @@
+{
+  "name": "uptime-monitoring-api-raw-node",
+  "version": "1.0.0",
+  "description": "Raw Node JS",
+  "main": "server.js",
+  "repository": "https://github.com/jakdev047/uptime-monitoring-api-raw-node",
+  "author": "Jubayer",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
